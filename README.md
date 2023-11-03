@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate on Web development
-- 📫 reach me on Linkidin @sumanthbeeram
+- 📫 reach me on Linkedin @sumanthbeeram
 
 <!---
 sumanthbeeram/sumanthbeeram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
